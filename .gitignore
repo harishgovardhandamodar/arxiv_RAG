@@ -2,3 +2,4 @@
 arxiv/*
 *.npz
 *.gz
+trimmed_arxiv_docs.csv
