@@ -9,3 +9,4 @@ trimmed_arxiv_docs.csv
 *.gexf
 *.model
 lib/*
+*.xlsx
